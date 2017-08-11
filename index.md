@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: Home
-permalink: /index/
+permalink: http://deepcontrol.github.io/Transmission/
 # permalink: /index/
 ---
