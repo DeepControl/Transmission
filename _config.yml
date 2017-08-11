@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Wandering
-author: Baturu #？？？
+# title: Wandering
+# author: Baturu #？？？
 # email: your-email@example.com
 # avatar and Favicon
-avatar: https://github.com/DeepControl/Wandering/blob/master/images/author_avatar.png
-favicon: https://github.com/DeepControl/Wandering/blob/master/images/logo.png
 description: © 2017 Baturu. All rights reserved.
 # this means to ignore newlines until "baseurl:"
 # Write an awesome description for your new site here. You can edit this

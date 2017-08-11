@@ -1,8 +1,7 @@
 # Wandering
 
 ###
-- A blog with notes and thoughts.
+- A http site.
 
 ###
 - Based on jekyll and github pages.
-
